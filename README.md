@@ -23,10 +23,13 @@
 
 ## 📌 Projects
 ### 🔹 **P1022 – Aviation Data Analytics Project**
-A deep-dive analysis into aviation operations using Excel, SQL, and Power BI.  
-Includes KPIs, dashboards, and business insights.
+1.Analyzed 500,000+ flight records using SQL & Excel to uncover flight delay patterns and airline performance.
+2.Cleaned & transformed large datasets with Power Query & Power Pivot for accurate analysis.
+3.Built interactive Power BI dashboards for airline rankings, airport traffic, and on-time performance.
+4.Created predictive Excel models to forecast delays and improve scheduling.
 
 ### 🔹 **Healthcare Analytics Project**
-End-to-end analysis covering patients, visits, treatments, doctors, and lab results.  
-Includes SQL KPIs, Power BI dashboard, and actionable recommendations.
-
+1.Analyzed patient, visit, treatment, and lab result data using SQL & Excel to identify trends and key performance metrics.
+2.Cleaned & organized large healthcare datasets for accurate analysis and reporting.
+3.Built interactive dashboards in Power BI to visualize patient demographics, follow-ups, abnormal lab results, and department-wise performance.
+4.Calculated KPIs like total patients, average treatment cost, follow-up rate, and abnormal lab result percentage to support data-driven decision-making.
